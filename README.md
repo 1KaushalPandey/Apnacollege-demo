@@ -1,3 +1,3 @@
 # Apnacollege-demo
 This is my first Git Repository
-Author - Kaushal Pandey
+<br>Author - Kaushal Pandey
